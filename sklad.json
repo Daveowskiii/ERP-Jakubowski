@@ -1,0 +1,26 @@
+[
+    {
+        "nazev": "Pomeranč",
+        "cena_za_kus": 10,
+        "datum_naskladneni": "2023-01-01",
+        "pocet_kusu": 50
+    },
+    {
+        "nazev": "Pomeranč",
+        "cena_za_kus": 20,
+        "datum_naskladneni": "2023-01-05",
+        "pocet_kusu": 50
+    },
+    {
+        "nazev": "Jablko",
+        "cena_za_kus": 15,
+        "datum_naskladneni": "2023-01-02",
+        "pocet_kusu": 50
+    },
+    {
+        "nazev": "Jablko",
+        "cena_za_kus": 25,
+        "datum_naskladneni": "2023-01-10",
+        "pocet_kusu": 50
+    }
+]
